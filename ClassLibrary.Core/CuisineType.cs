@@ -6,6 +6,9 @@
 		Mexican,
 		Italian,
 		Indian,
-		Nepali
+		Nepali,
+		Chinese,
+		Korean,
+		Thai
 	}
 }
